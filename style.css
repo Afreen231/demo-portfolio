@@ -37,3 +37,27 @@ p{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.second-half img{
+    width: 80%;
+    
+}
+.second-half{
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+    margin-right: 5%;
+    padding-right: 2%
+}
+.purple-color{
+    color: slateblue;
+}
+#dream-big{
+    background-image: url(images/exp-bg2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
